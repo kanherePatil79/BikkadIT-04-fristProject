@@ -1,0 +1,9 @@
+public class Demo2{
+
+public static void main(System.args[]){
+
+System.out.println("Second Demo Project");
+System.out.println("Second arrgument pass");
+
+}
+}

@@ -1,0 +1,7 @@
+public Class Demo1{
+
+public static void main(System.args[]){
+
+System.out.println("Welcome to BiikadIT");
+}
+}
